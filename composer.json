@@ -3,6 +3,12 @@
   "description": "Typical scale conversion as Interfaces constants for PHP",
   "type": "library",
   "license": "MIT",
+  "keywords": [
+    "conversion",
+    "digital storage",
+    "scales",
+    "time"
+  ],
   "authors": [
     {
       "name": "Flavio Heleno",
