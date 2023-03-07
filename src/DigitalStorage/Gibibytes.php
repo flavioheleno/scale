@@ -3,7 +3,7 @@ declare(strict_types = 1);
 
 namespace Scale\DigitalStorage;
 
-class Gebibytes {
+class Gibibytes {
   public const IN_MEBIBYTES = 1024;
   public const IN_KIBIBYTES = 1024 * self::IN_MEBIBYTES;
   public const IN_BYTES = 1024 * self::IN_KIBIBYTES;
